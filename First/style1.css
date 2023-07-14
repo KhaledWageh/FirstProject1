@@ -1,0 +1,33 @@
+.Container {
+    background-color: gray;
+    width: 960;
+
+}
+.Header {
+    background-color: lightblue;
+    padding: 10px;
+
+}
+.NavBar {
+    background-color: lightcoral;
+    padding: 10px;
+
+}
+.article {
+    background-color: crimson;
+    
+    width: 660px;
+    height: 300px;
+    float: left;
+}
+.adSideBar {
+    background-color: blue;
+    
+    width: 300px;
+    height:300px;
+    float:left;
+}
+.footer {
+    background-color: green;
+    padding: 10px;
+}

@@ -1,0 +1,49 @@
+h1 {
+    text-align: center;
+    border-style: solid;
+}
+
+h2 {
+    border-style: solid;
+        width: 190px; height: 35px;
+    font-size: 30px;
+}
+p {
+    font-size:larger;
+}
+.Rightdiv {
+    font-size: larger;
+    text-align: center;
+    margin-top: -20px;
+    
+
+}
+.Leftdiv {
+    font-size: larger;
+    text-align: center;
+    
+    
+    
+}
+hr {
+    border-left: 6px solid;
+    height: 400px;
+    position:absolute;
+    left: 50%;
+}
+h3 {
+    border-style: solid;
+        width: 700px;
+
+}
+h4 {
+    text-align: left;
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+
+
+

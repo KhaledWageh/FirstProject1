@@ -1,0 +1,50 @@
+h1 {
+    text-align: center;
+    border-style: solid;
+}
+
+
+p {
+    font-size: larger;
+}
+
+
+h2 {
+    border-style: solid;
+        width: 150px;
+    font-size: larger;
+}
+
+h3 {
+    border-style: solid;
+        width: 200px;
+    font-size: larger;
+}
+
+img {
+    margin-top: -25px;
+    float: right;
+}
+
+h4 {
+    border-style: solid;
+        width: 1250px;
+    font-size: larger;
+    
+}
+
+h5 {
+    border-style: solid;
+        width: 1300px;
+    font-size: larger;
+
+}
+
+body {
+    color: green;
+}
+
+mark {
+    background-color: rgb(64, 128, 0);
+    color: white;
+}
